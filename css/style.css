@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(16, 16, 16);
+    color: white;
+}
+body{
+    background-color: rgb(16,16,16);
+}
+.nav-link{
+    color:white;
+    font-size: x-large;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    
+   width: 30vw;
+   margin:0 auto;
+    border-left: 1px solid white;
+    /* background-color: grey; */
+}
+main>div{
+    margin-bottom: 30px;
+}
+img{
+    width: 100%;
+}
